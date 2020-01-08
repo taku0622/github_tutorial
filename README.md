@@ -2,3 +2,4 @@
 githubのチュートリアル
 SANOHIKARUSANSEN!
 takuからの変更
+takuからの変更2
