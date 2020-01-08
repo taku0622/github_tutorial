@@ -1,4 +1,5 @@
 # github_tutorial
+１行目への編集と最終行への編集なら、コンフリクトは起きないはず！bySANO!
 githubのチュートリアル
 SANOHIKARUSANSEN!
 takuからの変更
